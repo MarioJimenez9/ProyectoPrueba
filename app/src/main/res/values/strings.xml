@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="titulo_recordatorio">Reminders</string>
+    <string name="media_top">Media</string>
+    <string name="title">Title</string>
+    <string name="type">Write something...</string>
+    <string name="noteAdded">note added successfully</string>
+    <string name="noteUpdated">note updated successfully</string>
+    <string name="noteDeleted">note deleted successfully</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="dialogDelete">Are you sure you want to delete this note ?</string>
+    <string name="deleteTitle">Delete</string>
+    <string name="updateTitle">Edit</string>
+</resources>

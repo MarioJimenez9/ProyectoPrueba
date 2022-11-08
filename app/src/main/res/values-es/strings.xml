@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion de Notas</string>
+    <string name="titulo_recordatorio">Recordatorios</string>
+    <string name="media_top">Multimedia</string>
+    <string name="title">Titulo</string>
+    <string name="type">Escribe algo...</string>
+    <string name="noteAdded">nota agredada exitosamente</string>
+    <string name="noteUpdated">nota actualizada exitosamente</string>
+    <string name="noteDeleted">nota eliminada exitosamente</string>
+    <string name="YES">SI</string>
+    <string name="NO">NO</string>
+    <string name="dialogDelete">¿Estas seguro que quieres eliminar esta nota?</string>
+    <string name="deleteTitle">Eliminar</string>
+    <string name="updateTitle">Editar</string>
+</resources>
